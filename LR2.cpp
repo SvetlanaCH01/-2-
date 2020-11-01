@@ -8,7 +8,7 @@
 
 
 class Point{
-public:
+public: 
 	int x, y; //атрибуты
 	Point(){ //конструктор
 		printf("Point()\n");
